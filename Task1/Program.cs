@@ -2,5 +2,5 @@
 Console.WriteLine("Довільний текст у 1 рядку");
 Console.WriteLine("Довільний текст у 2 рядку");
 Console.WriteLine("Довільний текст у 3 рядку");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Довільний текст у 4 рядку");
+Console.WriteLine("Довільний текст у 5 рядку");
