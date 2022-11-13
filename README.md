@@ -12,3 +12,5 @@
 - [x] Github
 - [ ] GitLab
 - [ ] Bitbucket 
+
+Виконав: Павлов Максим
